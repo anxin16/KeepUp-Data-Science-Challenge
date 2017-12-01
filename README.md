@@ -14,11 +14,11 @@ b. Is is possible to reduce the number of categories drastically (say to 10% of 
 
 ### B. (Suggested duration: 30 mins)
 Give the number crunching a rest! Just think about these problems.
-1. **Algorithm thinking**  
+1. **Algorithm thinking**    
 How would build the product categorization from scratch, using similar/co-purchased information?
-2. **Product thinking**  
-Now, put on your 'product thinking' hat.
-a. Is it a good idea to show users the categorization hierarchy for items?
-b. Is it a good idea to show users similar/co-purchased items?
-c. Is it a good idea to show users reviews and ratings for items?
-d. For each of the above, why? How will you establish the same?
+2. **Product thinking**    
+Now, put on your 'product thinking' hat.    
+a. Is it a good idea to show users the categorization hierarchy for items?  
+b. Is it a good idea to show users similar/co-purchased items?  
+c. Is it a good idea to show users reviews and ratings for items?  
+d. For each of the above, why? How will you establish the same?  
