@@ -8,8 +8,7 @@ With the given data for 548552 products, perform exploratory analysis and make s
 Ratings are susceptible to manipulation, bias etc. What can you say (quantitatively speaking) about the ratings in this dataset?
 
 2. **Category bloat**  
-Consider the product group named 'Books'. Each product in this group is associated with categories. Naturally, with categorization, there are tradeoffs between how broad or specific the categories must be.
-
+Consider the product group named 'Books'. Each product in this group is associated with categories. Naturally, with categorization, there are tradeoffs between how broad or specific the categories must be.  
 For this dataset, quantify the following:  
 a. Is there redundancy in the categorization? How can it be identified/removed?  
 b. Is is possible to reduce the number of categories drastically (say to 10% of existing categories) by sacrificing relatively few category entries (say close to 10%)?  
