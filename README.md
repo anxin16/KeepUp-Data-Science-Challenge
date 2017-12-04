@@ -28,9 +28,9 @@ d. For each of the above, why? How will you establish the same?
 -------------------------
 
 ### Data entry format:
-• __Id__: Product id (number 0, ..., 548551)  
-• __ASIN__: Amazon Standard Identification Number
-• __title__: Name/title of the product  
+• __Id__: Product id (number 0, ..., 548551)    
+• __ASIN__: Amazon Standard Identification Number  
+• __title__: Name/title of the product    
 • __group__: Product group (Book, DVD, Video or Music)  
 • __salesrank__: Amazon Salesrank  
 • __similar__: ASINs of co-purchased products (people who buy X also buy Y)  
