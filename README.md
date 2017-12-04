@@ -24,3 +24,15 @@ a. Is it a good idea to show users the categorization hierarchy for items?
 b. Is it a good idea to show users similar/co-purchased items?  
 c. Is it a good idea to show users reviews and ratings for items?  
 d. For each of the above, why? How will you establish the same?  
+
+-------------------------
+
+### Data entry format:
+• __Id__: Product id (number 0, ..., 548551)  
+• __ASIN__: Amazon Standard Identification Number
+• __title__: Name/title of the product  
+• __group__: Product group (Book, DVD, Video or Music)  
+• __salesrank__: Amazon Salesrank  
+• __similar__: ASINs of co-purchased products (people who buy X also buy Y)  
+• __categories__: Location in product category hierarchy to which the product belongs (separated by |, category id in [])  
+• __reviews__: Product review information: time, user id, rating, total number of votes on the review, total number of helpfulness votes (how many people found the review to be helpful)  
