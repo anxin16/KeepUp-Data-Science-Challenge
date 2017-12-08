@@ -11,7 +11,7 @@ Ratings are susceptible to manipulation, bias etc. What can you say (quantitativ
 Consider the product group named 'Books'. Each product in this group is associated with categories. Naturally, with categorization, there are tradeoffs between how broad or specific the categories must be.  
 For this dataset, quantify the following:  
 a. Is there redundancy in the categorization? How can it be identified/removed?  
-b. Is is possible to reduce the number of categories drastically (say to 10% of existing categories) by sacrificing relatively few category entries (say close to 10%)?  
+b. Is it possible to reduce the number of categories drastically (say to 10% of existing categories) by sacrificing relatively few category entries (say close to 10%)?  
 
 ### B. (Suggested duration: 30 mins)
 Give the number crunching a rest! Just think about these problems.
